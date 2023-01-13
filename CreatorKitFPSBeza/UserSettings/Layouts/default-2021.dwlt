@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 116
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 125
+  controlID: 66
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 126
+  controlID: 55
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Creator Kit - FPS/Prefabs/Door and Key
+    - Assets/Creator Kit - FPS/Prefabs/Systems
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Creator Kit - FPS/Prefabs/Door and Key
+  - Assets/Creator Kit - FPS/Prefabs/Systems
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\752366\Documents\Unity\GitHub\CreatorKitFPSBezaP1\CreatorKitFPSBeza
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 119}
-    m_SelectedIDs: 1c770000
-    m_LastClickedID: 30492
-    m_ExpandedIDs: 0000000058720000e072000052760000547600005a7600005c7600002e77000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: ac700000
+    m_LastClickedID: 28844
+    m_ExpandedIDs: 00000000ee6f0000f06f0000f26f00005a70000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000058720000
+    m_ExpandedIDs: 00000000ee6f0000f06f0000f26f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -491,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 10cefeff
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: fcaeffffd4b1ffffceb2ffff00fbffff
+      m_ExpandedIDs: 9ce7ffff5af5ffff72f5ffff86f5ffff8af5ffff96f5ffff48f6ffff7cf7ffff92f7ffff98f7ffff78f8ffffd0f8ffffe0f8ffffe8f8fffff8f8ffff00f9ffff04f9ffff08f9ffff14f9ffff98faffffa0faffffa8faffffb8faffffbcfaffffd0faffffd4faffffdcfaffffe0faffffe4faffffe8fafffff4faffff00fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -509,7 +509,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -765,9 +765,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 104.51151, y: -28.049538, z: -54.585308}
+    m_Target: {x: 41.842354, y: -15.483685, z: 8.90912}
     speed: 2
-    m_Value: {x: 104.51151, y: -28.049538, z: -54.585308}
+    m_Value: {x: 41.842354, y: -15.483685, z: 8.90912}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -814,20 +814,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.08787987, y: 0.73931897, z: -0.098390155, w: 0.66027796}
+    m_Target: {x: 0.18381332, y: 0.713538, z: -0.20350349, w: 0.6445935}
     speed: 2
-    m_Value: {x: 0.08788149, y: 0.7393326, z: -0.09839197, w: 0.6602902}
+    m_Value: {x: 0.1838282, y: 0.71359575, z: -0.20351997, w: 0.64464563}
   m_Size:
-    m_Target: 74.7034
+    m_Target: 58.91866
     speed: 2
-    m_Value: 74.7034
+    m_Value: 58.91866
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.9205409
-    m_SpeedNormalized: 0.46000046
+    m_Speed: 0.8605709
+    m_SpeedNormalized: 0.43000045
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
